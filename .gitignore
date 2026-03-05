@@ -21,7 +21,6 @@ __pycache__/
 Thumbs.db
 
 # Data/models (if you want to exclude large files)
-*.mat
 *.h5
 *.keras
 
