@@ -1,0 +1,11 @@
+ipykernel
+numpy
+matplotlib
+pandas
+seaborn
+scipy
+vmdpy
+pyarrow
+fastparquet
+scikit-learn
+tensorflow

@@ -1,0 +1,29 @@
+# Virtual environment
+venv
+ENV
+env
+*.keras
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data/models (if you want to exclude large files)
+*.mat
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints
